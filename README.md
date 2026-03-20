@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-✨ Passionate about coding, creativity & building cool things,💻 Computer Application student exploring tech and design<br>🌸 Turning ideas into reality through code<br>🛠️ I’m currently working on<br>💻 DSA practice & problem solving<br>🌐 Personal projects (portfolio / mini apps)<br>📂 Improving my GitHub profile<br>💡 Beginner-friendly open source<br>🎨 Creative UI/UX ideas<br>📚 I’m currently learning<br>☕ Java & Data Structures<br>🌐 HTML, CSS, JavaScript<br>⚡ Git & GitHub
+✨ Passionate about coding, creativity & building cool things,💻 Computer Application student exploring tech and design<br>🌸 Turning ideas into reality through code<br>🛠️ I’m currently working on - 💻 DSA practice & problem solving - 🌐 Personal projects (portfolio / mini apps)<br>📂 Improving my GitHub profile - 💡 Beginner-friendly open source<br>📚 I’m currently learning<br>☕ Java & Data Structures<br>🌐 HTML, CSS, JavaScript<br>⚡ Git & GitHub
 
 
 ## 🌐 Socials:
